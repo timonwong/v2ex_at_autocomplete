@@ -7,7 +7,6 @@
 // @grant         none
 // @include       http://*.v2ex.com/t/*
 // @include       http://v2ex.com/t/*
-// @require       http://www.v2ex.com/static/js/jquery.js
 // @version       0.6
 // @updateURL     https://userscripts.org/scripts/source/155134.meta.js
 // @downloadURL   https://userscripts.org/scripts/source/155134.user.js
